@@ -1,0 +1,7 @@
+C:\Users\Igor\source\repos\Task1Factorial\Task4. Factorial of nums from file\obj\Debug\Task4. Factorial of nums from file.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\Task1Factorial\Task4. Factorial of nums from file\obj\Debug\Task4. Factorial of nums from file.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Task1Factorial\Task4. Factorial of nums from file\bin\Debug\Task4.Factorial_of_nums_from_file.exe.config
+C:\Users\Igor\source\repos\Task1Factorial\Task4. Factorial of nums from file\bin\Debug\Task4.Factorial_of_nums_from_file.exe
+C:\Users\Igor\source\repos\Task1Factorial\Task4. Factorial of nums from file\bin\Debug\Task4.Factorial_of_nums_from_file.pdb
+C:\Users\Igor\source\repos\Task1Factorial\Task4. Factorial of nums from file\obj\Debug\Task4.Factorial_of_nums_from_file.exe
+C:\Users\Igor\source\repos\Task1Factorial\Task4. Factorial of nums from file\obj\Debug\Task4.Factorial_of_nums_from_file.pdb

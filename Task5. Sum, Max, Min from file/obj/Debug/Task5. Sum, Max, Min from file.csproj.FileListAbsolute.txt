@@ -1,0 +1,6 @@
+C:\Users\Igor\source\repos\Task1Factorial\Task5. Sum, Max, Min from file\bin\Debug\Task5.Sum__Max__Min_from_file.exe.config
+C:\Users\Igor\source\repos\Task1Factorial\Task5. Sum, Max, Min from file\bin\Debug\Task5.Sum__Max__Min_from_file.exe
+C:\Users\Igor\source\repos\Task1Factorial\Task5. Sum, Max, Min from file\bin\Debug\Task5.Sum__Max__Min_from_file.pdb
+C:\Users\Igor\source\repos\Task1Factorial\Task5. Sum, Max, Min from file\obj\Debug\Task5. Sum, Max, Min from file.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Task1Factorial\Task5. Sum, Max, Min from file\obj\Debug\Task5.Sum__Max__Min_from_file.exe
+C:\Users\Igor\source\repos\Task1Factorial\Task5. Sum, Max, Min from file\obj\Debug\Task5.Sum__Max__Min_from_file.pdb

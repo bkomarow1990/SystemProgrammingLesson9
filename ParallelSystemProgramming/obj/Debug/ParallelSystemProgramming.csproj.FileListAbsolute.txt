@@ -1,0 +1,7 @@
+C:\Users\Igor\source\repos\Task1Factorial\ParallelSystemProgramming\bin\Debug\ParallelSystemProgramming.exe.config
+C:\Users\Igor\source\repos\Task1Factorial\ParallelSystemProgramming\bin\Debug\ParallelSystemProgramming.exe
+C:\Users\Igor\source\repos\Task1Factorial\ParallelSystemProgramming\bin\Debug\ParallelSystemProgramming.pdb
+C:\Users\Igor\source\repos\Task1Factorial\ParallelSystemProgramming\obj\Debug\ParallelSystemProgramming.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\Task1Factorial\ParallelSystemProgramming\obj\Debug\ParallelSystemProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Task1Factorial\ParallelSystemProgramming\obj\Debug\ParallelSystemProgramming.exe
+C:\Users\Igor\source\repos\Task1Factorial\ParallelSystemProgramming\obj\Debug\ParallelSystemProgramming.pdb
